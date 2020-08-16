@@ -1,3 +1,3 @@
 # Automated-Description-Generator
 
-I run the code by Google Colab.
+Please run the code by Google Colab.
